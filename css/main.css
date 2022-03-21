@@ -1,0 +1,29 @@
+h1 {
+    color: darkcyan;
+    font-size: medium;
+}
+
+h2 {
+    color: cadetblue;
+    font-size: small;
+}
+
+h3 {
+    color: cadetblue;
+    font-size: small;
+}
+
+.emp {
+    font-weight: bolder;
+    background-color: lightsteelblue;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.item {
+    margin-bottom: 10px;
+}
